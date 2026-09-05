@@ -1,0 +1,7 @@
+data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+__pycache__/
+*.pyc
+report.html

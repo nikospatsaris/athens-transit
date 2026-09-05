@@ -1,0 +1,4 @@
+{
+  "comment": "Lines to observe, by the number shown on the vehicle. Keep this short: every line adds 2 API calls per poll cycle, and the API has no key precisely because it trusts callers not to flood it.",
+  "lines": ["550", "608", "040", "224", "021", "732"]
+}
